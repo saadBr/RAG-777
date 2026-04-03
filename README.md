@@ -96,7 +96,6 @@ Main app interface:
 
 ![RAG App Screenshot](image.png)
 
-You can also open the screenshot directly here: [image.png](sandbox:/mnt/data/image.png)
 
 ## Current Implementation Notes
 
